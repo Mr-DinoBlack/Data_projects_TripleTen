@@ -19,7 +19,7 @@
 
 
 ### Technologies
-* To build this project, I used Google Sheets. Within this tool I utilized Advanced Google Spreadsheets practices.
+* To build this project, I used Google Sheets. 
 
 
 
