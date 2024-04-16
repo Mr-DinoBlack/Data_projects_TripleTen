@@ -12,7 +12,7 @@ In this project I was hired as a consultant to review the superstore's operation
 bankruptcy.
 
 Part 1: Profits & losses
-First, we'll try to identify the important centers of profit and loss for the superstore.
+Identify the important centers of profit and loss for the superstore.
 
 Among the pairs of dimensions (e.g., subcategory + region, or shipping mode + product ID) which are the two biggest profit centers and two biggest loss-makers? Justify your conclusion with a visualization. According to the visualization, the biggest two profit centers for subcategories are (Copiers,  & Phones). The stacked bar display illustrates that these two have the most profit. To be certain I took a further step and calculated the differences between the profit and loss. Copiers did not have any profit loss. With phones I subtracted the profit of $67,000 minus the loss of $11,000 to see a better understanding of how profitable that area was. And to coincide with these findings the two biggest loss-makers are (binders and tables). Here I also took a closer step and calculated the difference which ultimately ended up with a huge profit loss for binders and a negative loss for tables. These were my findings for the biggest loss-makers
 
@@ -36,9 +36,12 @@ The best three combinations of states and months of the year to advertise are Al
 Part 3: Returned items
 In the last part, we’ll use the Returns table to see if some products have abnormal rates of being returned to the store.
 
-HINT: Make sure the Returns table is LEFT JOIN’ed onto the Orders table. You should see both “Yes” and “null” values in the Returned column.
+I LEFT JOIN’ed onto the Orders table. You should see both “Yes” and “null” values in the Returned column. This will show that the join was successful.
 
-Make the Returned field into a calculated field where the null values are 0 and the Yes values are 1.
+![image](https://github.com/Mr-DinoBlack/Data_projects_TripleTen/assets/164646396/9a335478-6bf8-4c69-9c55-1471a71b27d4)
+
+
+I made the Returned field into a calculated field where the null values are 0 and the Yes values are 1.
 Use this new field to make a visualization for each of the following questions: 1. Which products have the highest return rate? 2. Which customers have the highest return rate?
 In a separate sheet, make a visualization of the average profit against the average return rate on a dimension of your choice (state, shipping mode, product type, etc.). Present a visual argument as to why the superstore should do away with or keep doing business on the basis of this dimension.
 
@@ -47,13 +50,13 @@ The products that have the highest return rates are shown using the index, and t
 The final display is a heat map displaying the average profit against the average return using the State as the dimension. Each square has 3 different pieces of information which include, State, size, and color. Every square is a separate State. The color schema shows the average return indication for each state, the lighter a color is the lower the return indication for the State, and the darker the color the higher the return indication is for the State. The size of the squares is related to the average profit, the larger a square is the more profitable that particular state is, and the smaller the square shows lower and in some cases a negative profit.
 
 
-## Tableau Public Workbook Link
+## Link To Project
 
 [View my Tableau Public workbook]
 (https://public.tableau.com/views/Project-SavingSuperStore/ProfitsLosses-SubcategoryCategoryRegion?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)aring
 
 ### Demo Video of Project 
-* https://www.loom.com/share/d88021f5559c453fb8f9c8d1c86ff955
+* [https://www.loom.com/share/d88021f5559c453fb8f9c8d1c86ff955](https://www.loom.com/share/d954c3c51c73480ba072dce63bf795b9)
 
 * The link above allows the users to navigate the project.
 
