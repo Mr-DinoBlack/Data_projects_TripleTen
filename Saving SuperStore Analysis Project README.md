@@ -1,5 +1,6 @@
 # Saving SuperStore Analysis
-![ecommerce1](https://github.com/Mr-DinoBlack/Data_projects_TripleTen/assets/164646396/6c0e0a05-c282-47ab-93ed-aed7d946779c)
+![image](https://github.com/Mr-DinoBlack/Data_projects_TripleTen/assets/164646396/47655fae-8cc6-4117-9a64-4c13666d03f8)
+
 
 
 
