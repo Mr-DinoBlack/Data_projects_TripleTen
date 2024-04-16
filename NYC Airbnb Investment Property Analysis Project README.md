@@ -1,4 +1,6 @@
 # NYC Airbnb Investment Property Analysis
+![Airbnb_Logo_Bélo svg](https://github.com/Mr-DinoBlack/Data_projects_TripleTen/assets/164646396/02e53a3d-b8d6-42d7-bf67-a650a1454c85)
+
 
 ## Overview
 * The project task was to analyze data collected on current Airbnb listings to identify useful insights for an investor interested in purchasing an investment property in Manhattan.There is a table of contents that makes walking throughe the project user friendly. I used Advanced Google Spreadsheets to complete this project.
