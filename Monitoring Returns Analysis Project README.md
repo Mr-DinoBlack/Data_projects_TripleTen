@@ -1,5 +1,11 @@
 # Monitoring Returns Analysis
-![Airbnb_Logo_Bélo svg](https://github.com/Mr-DinoBlack/Data_projects_TripleTen/assets/164646396/02e53a3d-b8d6-42d7-bf67-a650a1454c85)
+-Paper Mockup of Dashboard
+![Dino Black Mock Up  (2)](https://github.com/Mr-DinoBlack/Data_projects_TripleTen/assets/164646396/052515ed-55b3-45f0-ba11-a0b00d6c871c)
+-Digital Mockup of Dashboard
+![Mockup Template  Blank Containers](https://github.com/Mr-DinoBlack/Data_projects_TripleTen/assets/164646396/4bf7cc59-7baf-48b5-9894-cd8b0cfcee6c)
+-Final Mockup of Dashboard
+![Dino Black 1](https://github.com/Mr-DinoBlack/Data_projects_TripleTen/assets/164646396/81bf4732-2b15-41ea-8893-5720f01390da)
+
 
 
 ## Overview
@@ -14,7 +20,7 @@
 * https://public.tableau.com/app/profile/dino.black/viz/MonitoringReturns/MonitoringReturnsDashboard#1
 
 ### Demo Video of Project 
-* https://www.loom.com/share/6a674931e4c9423ebab0e5ad7ed811fb
+* [https://www.loom.com/share/6a674931e4c9423ebab0e5ad7ed811fb](https://www.loom.com/share/14b15000a2f7496c98d79c8127f89bf1)
 * The link above allows the users to navigate the project.
 
 
