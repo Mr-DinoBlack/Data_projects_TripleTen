@@ -1,11 +1,22 @@
-# Zomato Report
+# Zomato Analysis
+
+![Report](https://github.com/Mr-DinoBlack/Data_projects_TripleTen/assets/164646396/e1d9c97d-1123-48a9-abf9-3e25de51ff41)
+
 
 ## Overview
+
+![Fork   Spoon](https://github.com/Mr-DinoBlack/Data_projects_TripleTen/assets/164646396/2257cdbe-0af5-4790-8290-9ac03b846bab)
+
+
 Brief overview of the purpose of the report and the significance of the data analysis.
 Zomato is a multinational restaurant aggregator and food delivery company.
 The purpose of the Zomato KPI dashboard was to share key business metrics from Zomato. The dashboard will give better insight and clarity of sales & revenue over time, cuisine performance, cities, and customers. 
 
 ## Hypothesis
+
+![Questions](https://github.com/Mr-DinoBlack/Data_projects_TripleTen/assets/164646396/ee95b700-e4c2-447b-b12f-c9ff34f91888)
+
+
 The dynamics of sales/revenue over time for the Zomato restaurant group will reveal seasonal trends and patterns, with peak sales occurring during certain months or periods. Main KPIs such as total sales, total revenue, and total number of customers will exhibit fluctuations corresponding to consumer preferences and economic factors. Additionally, there may be a shift in the distribution of sales across different locations or restaurant concepts within the group, indicating changes in market demand or strategic shifts in business focus.
 
 ## Mockup of Dashboard
