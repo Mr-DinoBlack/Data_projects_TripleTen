@@ -1,8 +1,5 @@
 # Zomato Analysis
 
-![Report](https://github.com/Mr-DinoBlack/Data_projects_TripleTen/assets/164646396/e1d9c97d-1123-48a9-abf9-3e25de51ff41)
-
-
 ## Overview
 
 ![Fork   Spoon](https://github.com/Mr-DinoBlack/Data_projects_TripleTen/assets/164646396/2257cdbe-0af5-4790-8290-9ac03b846bab)
