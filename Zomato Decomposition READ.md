@@ -8,7 +8,6 @@
 ![Fork   Spoon](https://github.com/Mr-DinoBlack/Data_projects_TripleTen/assets/164646396/2257cdbe-0af5-4790-8290-9ac03b846bab)
 
 
-Brief overview of the purpose of the report and the significance of the data analysis.
 Zomato is a multinational restaurant aggregator and food delivery company.
 The purpose of the Zomato KPI dashboard was to share key business metrics from Zomato. The dashboard will give better insight and clarity of sales & revenue over time, cuisine performance, cities, and customers. 
 
